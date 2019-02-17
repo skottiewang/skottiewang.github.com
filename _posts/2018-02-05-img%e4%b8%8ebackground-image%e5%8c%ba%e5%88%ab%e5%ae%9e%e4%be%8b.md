@@ -16,23 +16,22 @@ categories:
 
 下图所示：
 
-<!--more-->
+
 ![01](/wp-content/uploads/2018/02/图1.jpg)
-![](http://skottiewang.com/wp-content/uploads/2018/02/图1.jpg)
 
 如果使用img标签来做，在移动端遇到横拍的图片，会出现下图所示情况，图片不能占满外部容器。
 
 <pre class="line-numbers prism-highlight" data-start="1"><code class="language-html"> &lt;img :src="colitem.url"/&gt;
 </code></pre>
 
-![](http://skottiewang.com/wp-content/uploads/2018/02/%E5%9B%BE2.jpg)
+![02](/wp-content/uploads/2018/02/图2.jpg)
 
 如果使用background-image来做：
 
 <pre class="line-numbers prism-highlight" data-start="1"><code class="language-html"> &lt;div :style="`background-image:url(${colitem.url})`"&gt;&lt;/div&gt;
 </code></pre>
 
-![](http://skottiewang.com/wp-content/uploads/2018/02/%E5%9B%BE3.jpg)
+![03](/wp-content/uploads/2018/02/图3.jpg)
 
 ### 浅析
 
