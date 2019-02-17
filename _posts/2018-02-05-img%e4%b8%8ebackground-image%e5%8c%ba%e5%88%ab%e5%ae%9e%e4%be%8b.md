@@ -19,8 +19,6 @@ categories:
 <!--more-->
 ![](http://skottiewang.com/wp-content/uploads/2018/02/图1.jpg)
 
-![](http://skottiewang.com/wp-content/uploads/2018/02/图1.jpg)
-
 如果使用img标签来做，在移动端遇到横拍的图片，会出现下图所示情况，图片不能占满外部容器。
 
 <pre class="line-numbers prism-highlight" data-start="1"><code class="language-html"> &lt;img :src="colitem.url"/&gt;
