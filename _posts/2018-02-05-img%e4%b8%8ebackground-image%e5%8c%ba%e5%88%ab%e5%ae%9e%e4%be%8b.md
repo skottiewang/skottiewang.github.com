@@ -17,6 +17,7 @@ categories:
 下图所示：
 
 <!--more-->
+![](http://skottiewang.com/wp-content/uploads/2018/02/图1.jpg)
 
 ![](http://skottiewang.com/wp-content/uploads/2018/02/图1.jpg)
 
