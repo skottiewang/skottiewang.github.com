@@ -1,13 +1,8 @@
 ---
 id: 1
 title: 世界，您好！
-date: 2016-12-15T11:35:14+00:00
-author: skottiewang
-layout: post
-guid: http://skottiewang.com/?p=1
-permalink: /2016/12/15/hello-world/
 categories:
-  - Life
+  - 生活杂谈
 ---
 &nbsp; <img class="alignnone size-full wp-image-112" src="http://skottiewang.com/wp-content/uploads/2016/12/timg.jpeg" alt="" width="650" height="300" />&nbsp; &nbsp; &nbsp;
 
