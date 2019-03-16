@@ -12,7 +12,7 @@ categories:
 ##### 希望实现的效果
 
 Modal弹出后点击取消则Modal立刻消失，点击OK，弹出Toast的轻提示组件，1秒延迟后，Toast与Modal同时消失。
-  
+
 ![](http://skottiewang.com/wp-content/uploads/2018/01/QQ20180118-1@2x.png)
 
 <!--more-->
@@ -74,7 +74,7 @@ Modal弹出后点击取消则Modal立刻消失，点击OK，弹出Toast的轻提
 ##### 思考：
 
 能否在onpress中不使用promise？
-  
+
 试验如下，parent中：
 
 <pre class="line-numbers prism-highlight" data-start="1"><code class="language-javascript"> Modal.alert(

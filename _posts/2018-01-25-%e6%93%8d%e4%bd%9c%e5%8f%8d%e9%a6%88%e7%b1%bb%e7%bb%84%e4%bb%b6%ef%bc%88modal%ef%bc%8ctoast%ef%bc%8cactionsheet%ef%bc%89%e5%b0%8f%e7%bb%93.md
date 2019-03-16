@@ -10,7 +10,7 @@ categories:
   - Code
 ---
 Modal,Toast,ActionSheet这三个组件的写法思路几乎完全相同，这里以ActionSheet为例做一个小结。
-    
+​    
 - ActionSheet子组件的vue文件
 
 <pre class="line-numbers prism-highlight" data-start="1"><code class="language-html">  &lt;div style="bottom: 0px; position: fixed;width: 100%;"&gt;
@@ -41,7 +41,7 @@ Modal,Toast,ActionSheet这三个组件的写法思路几乎完全相同，这里
               &lt;div class="um-action-sheet-share-list-item-title"&gt;{{ col.title }}&lt;/div&gt;
             &lt;/div&gt;
           &lt;/div&gt;
-
+    
           &lt;div class='um-action-sheet-share-list' v-if="!multipleLine"&gt;
             &lt;div class="um-action-sheet-share-list-item" v-for="(item, index, text) in iconGroup"&gt;
               &lt;div class="um-action-sheet-share-list-item-icon" @click="iconClick(item)"&gt;
@@ -50,7 +50,7 @@ Modal,Toast,ActionSheet这三个组件的写法思路几乎完全相同，这里
               &lt;div class="um-action-sheet-share-list-item-title"&gt;{{ item.title }}&lt;/div&gt;
             &lt;/div&gt;
           &lt;/div&gt;
-
+    
           &lt;div class="um-action-sheet-share-cancel-button" @click="cancelClick"&gt;{{ cancelButtonText }}&lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
@@ -59,7 +59,7 @@ Modal,Toast,ActionSheet这三个组件的写法思路几乎完全相同，这里
   &lt;/div&gt;
 </code></pre>
 
-<!--more-->
+
 
 <pre class="line-numbers prism-highlight" data-start="1"><code class="language-javascript">&lt;script&gt;
   export default {
