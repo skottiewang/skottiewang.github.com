@@ -6,7 +6,7 @@
 # Site
 title: skottie
 subtitle: 设计师
-description: Designer
+description: I'm a Designer
 author: Skottie Wang
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -121,7 +121,7 @@ menu:
   categories: /categories/
   #about: /about/
   archives: /archives/
-  tags: /tags/
+  #tags: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
