@@ -1,6 +1,7 @@
 ---
 title: 几款常用的sketch标注工具
 categories: 设计
+excerpt_separator: <!--more-->
 ---
 
 
@@ -18,6 +19,8 @@ categories: 设计
   3.将`zip`解压，运行`html`文件，在浏览器里查看效果
 
   ![01](/wp-content/uploads/2019/03/marketch.png)
+
+  <!--more-->
 
 * 缺点
 
@@ -57,7 +60,7 @@ categories: 设计
 
 [Zeplin](https://zeplin.io/)
 
-![02](/wp-content/uploads/2019/03/zeplin.png)
+![03](/wp-content/uploads/2019/03/zeplin.png)
 
 * 缺点
 
