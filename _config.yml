@@ -5,7 +5,7 @@
 
 # Site
 title: 某磊
-subtitle: Designer
+subtitle: Sunset Rocking Man
 description: Sunset Rocking Man
 author: skottie
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -136,10 +136,10 @@ menu_icons:
   home: home
   about: user
   categories: th
-  schedule: calendar
-  tags: tags
+  # schedule: calendar
+  # tags: tags
   archives: archive
-  sitemap: sitemap
+  # sitemap: sitemap
   commonweal: heartbeat
   lab: flask
 
