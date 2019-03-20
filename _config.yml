@@ -4,29 +4,29 @@
 # ---------------------------------------------------------------
 
 # Site
-title: skottie
-subtitle: 设计师
-description: I'm a Designer
-author: Skottie Wang
+title: 某磊
+subtitle: Designer
+description: Sunset Rocking Man
+author: skottie
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
-## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
+## If your site is put in a subdirectory, set url as 'https://yoursite.com' and baseurl as '/child'
 url:
 baseurl:
 permalink: pretty
 
 # Pagination
-paginate: 10
-#paginate_path: "/page:num/"
+paginate: 5
+paginate_path: "/page/:num"
 #archive:
   #paginate: 10
   #paginate_path: "/page:num/"
-#category:
-  #paginate: 10
-  #paginate_path: "/page:num/"
+category:
+  paginate: 10
+  paginate_path: "/page/:num"
 #tag:
   #paginate: 10
   #paginate_path: "/page:num/"
@@ -76,10 +76,10 @@ plugins:
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `assets/` directory.
-favicon: /assets/favicon.ico
+favicon: /assets/favicon.png
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "skottie,互联网,王磊,设计"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -101,11 +101,11 @@ copyright: true
 
 # Canonical, set a canonical link tag in your jekyll, you could use it for your SEO of blog.
 # See: https://support.google.com/webmasters/answer/139066
-# Tips: Before you open this tag, remember set up your URL in _config.yml ( ex. url: http://yourdomain.com )
+# Tips: Before you open this tag, remember set up your URL in _config.yml ( ex. url: https://yourdomain.com )
 canonical: true
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
-seo: false
+seo: true
 
 # If true, will add site-subtitle to index page, added in jekyll config.
 # subtitle: Subtitle
@@ -119,9 +119,8 @@ index_with_subtitle: false
 menu:
   home: /
   categories: /categories/
-  #about: /about/
+  about: /about/
   archives: /archives/
-  #tags: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -142,6 +141,7 @@ menu_icons:
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
+  lab: flask
 
 
 
@@ -165,7 +165,7 @@ scheme: Pisces
 # - Introduce in 5.0.1
 # ---------------------------------------------------------------
 font:
-  enable: true
+  enable: false
 
   # Uri of fonts host. E.g. //fonts.googleapis.com (Default)
   host:
@@ -214,8 +214,8 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
-  GitHub: https://github.com/skottiewang
-  Instagram: https://www.instagram.com/skottie_wang/
+  #LinkLabel: Link
+  Github: https://github.com/skottiewang
 
 # Social Links Icons
 # Icon Mapping:
@@ -226,14 +226,12 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github
-  Instagram: instagram
-  # Weibo: weibo
+  Github: github
 
 
 # Sidebar Avatar
-# in directory: /assets/images/avatar.png
-#avatar: /assets/images/avatar.png
+# in directory: /assets/images/avatar.gif
+avatar: /assets/images/avatar.png
 
 
 # Table Of Contents in the Sidebar
@@ -241,14 +239,14 @@ toc:
   enable: true
 
   # Automatically add list number to toc.
-  number: true
+  number: false
 
   # If true, all words will placed on next lines if header width longer then sidebar width.
-  wrap: false
+  wrap: true
 
 
 # Creative Commons 4.0 International License.
-# http://creativecommons.org/
+# https://creativecommons.org/
 # Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
 #creative_commons: by-nc-sa
 #creative_commons:
@@ -264,9 +262,9 @@ sidebar:
   #  - always  expand for all pages automatically
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggle.
-  #display: post
+  display: post
   #display: always
-  display: hide
+  #display: hide
   #display: remove
 
   # Sidebar offset from top menubar in pixels.
@@ -285,7 +283,7 @@ sidebar:
 #links_layout: block
 #links_layout: inline
 #links:
-  #Title: http://example.com/
+  #Title: https://example.com/
 
 
 # ---------------------------------------------------------------
@@ -304,7 +302,7 @@ excerpt_description: true
 # Automatically Excerpt. Not recommend.
 # Please use <!-- more --> in the post to control excerpt accurately.
 auto_excerpt:
-  enable: false
+  enable: true
   length: 150
 
 # Post meta display settings
@@ -320,6 +318,11 @@ post_wordcount:
   wordcount: false
   min2read: false
   separated_meta: true
+
+# reward
+
+# reward_comment: 觉得这篇文章对你有用？支持一下我的写作
+# wechatpay: /assets/images/wechat-reward.png
 
 # Wechat Subscriber
 #wechat_subscriber:
@@ -362,7 +365,7 @@ highlight_theme: night
 
 # MathJax Support
 mathjax:
-  enable: false
+  enable: true
   per_page: false
   cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
 
@@ -380,38 +383,12 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: tortorse
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
   hide: false
-
-# <wildfire>
-wildfire:
-  enable: false
-  # version - It's recommended to use the following versions.
-  loaderVersion: 1.2.5 # https://www.npmjs.com/package/wildfire-comment
-  useDev: true
-  version: 0.5.6 
-  # database config
-  databaseProvider: firebase # or wilddog
-  firebase: # your firebase config goes here ↓
-    apiKey: 
-    authDomain:
-    databaseURL:
-    projectId:
-    storageBucket:
-    messagingSenderId:
-  wilddog: # your wilddog config goes here ↓
-    siteId:
-  # other configs
-  theme: light # or dark
-  locale: en # or other locales, e.g. zh-CN
-  defaultAvatarURL: 
-# Any question? 
-# Raise an issue here: https://github.com/cheng-kang/wildfire/issues
-# </wildfire>
 
 # Hypercomments
 #hypercomments_id:
@@ -426,7 +403,7 @@ changyan:
   appkey:
 
 # Support for youyan comments system.
-# You can get your uid from http://www.uyan.cc
+# You can get your uid from https://www.uyan.cc
 #youyan_uid: your uid
 
 # Support for LiveRe comments system.
@@ -459,10 +436,9 @@ gitalk:
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-#google_site_verification:
-
+google_site_verification: E4mtuf4gxTCm1N_T1sYpNE5RiexYJnW856UeEEP7qqA
 # Google Analytics
-#google_analytics:
+google_analytics: UA-97072659-1
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
@@ -477,7 +453,7 @@ gitalk:
 
 # Make duoshuo show UA
 # user_id must NOT be null when admin_enable is true!
-# you can visit http://dev.duoshuo.com get duoshuo user id.
+# you can visit https://dev.duoshuo.com get duoshuo user id.
 duoshuo_info:
   ua_enable: true
   admin_enable: false
@@ -488,7 +464,7 @@ duoshuo_info:
 # Facebook SDK Support.
 # https://github.com/iissnan/hexo-theme-next/pull/410
 facebook_sdk:
-  enable: true
+  enable: false
   app_id:       #<app_id>
   fb_admin:     #<user_id>
   like_button:  #true
@@ -498,7 +474,7 @@ facebook_sdk:
 # This plugin depends on Facebook SDK.
 # If facebook_sdk.enable is false, Facebook comments plugin is unavailable.
 facebook_comments_plugin:
-  enable: true
+  enable: false
   num_of_posts: 10  # min posts num is 1
   width: 100%       # default width is 550px
   scheme: light     # default scheme is light (light or dark)
@@ -520,15 +496,15 @@ rating:
   color:  fc6423
 
 
- Show number of visitors to each article.
+# Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: #<app_id>
-  app_key: #<app_key>
+  enable: true
+  app_id: Ds2g6mCtTCzAVyRFIXVte0oX-gzGzoHsz
+  app_key: PG338Ks0iCUtVIOs7vivERDs
 
 # Show PV/UV of the website/page with busuanzi.
-# Get more information on http://ibruce.info/2015/04/04/busuanzi/
+# Get more information on https://ibruce.info/2015/04/04/busuanzi/
 busuanzi_count:
   # count values only if the other configs are false
   enable: false
@@ -583,10 +559,9 @@ algolia_search:
     hits_empty: "We didn't find any results for the search: ${query}"
     hits_stats: "${hits} results found in ${time} ms"
 
-
 # Local search
 local_search:
-  enable: false
+  enable: true
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
@@ -605,7 +580,7 @@ exturl: false
 #! ---------------------------------------------------------------
 
 # Motion
-use_motion: false
+use_motion: true
 
 # Fancybox
 fancybox: true
@@ -660,7 +635,7 @@ vendors:
   jquery:
 
   # Internal version: 2.1.5
-  # See: http://fancyapps.com/fancybox/
+  # See: https://fancyapps.com/fancybox/
   fancybox:
   fancybox_css:
 
@@ -673,11 +648,11 @@ vendors:
   lazyload:
 
   # Internal version: 1.2.1
-  # See: http://VelocityJS.org
+  # See: https://VelocityJS.org
   velocity:
 
   # Internal version: 1.2.1
-  # See: http://VelocityJS.org
+  # See: https://VelocityJS.org
   velocity_ui:
 
   # Internal version: 0.7.9
@@ -685,13 +660,13 @@ vendors:
   ua_parser:
 
   # Internal version: 4.6.2
-  # See: http://fontawesome.io/
-  fontawesome:
+  # See: https://fontawesome.io/
+  fontawesome: 
 
   # Internal version: 1
   # https://www.algolia.com
-  algolia_instant_js:
-  algolia_instant_css:
+  algolia_instant_js: 
+  algolia_instant_css: 
 
   # Internal version: 1.0.2
   # See: https://github.com/HubSpot/pace
@@ -736,5 +711,3 @@ images: assets/images
 
 # Theme version
 version: 5.1.1
-
-theme: jekyll-theme-slate
