@@ -4,9 +4,9 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 某磊
-subtitle: Sunset Rocking Man
-description: Sunset Rocking Man
+title: 王磊
+subtitle: 设计师
+description: 设计师
 author: skottie
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -216,6 +216,8 @@ font:
 social:
   #LinkLabel: Link
   Github: https://github.com/skottiewang
+  Dribbble: https://dribbble.com/skottie
+  Zcool: https://www.zcool.com.cn/u/1253533
 
 # Social Links Icons
 # Icon Mapping:
@@ -227,6 +229,8 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   Github: github
+  Dribbble: dribbble
+  Zcool: zcool
 
 
 # Sidebar Avatar
