@@ -19,7 +19,7 @@ baseurl:
 permalink: pretty
 
 # Pagination
-paginate: 5
+paginate: 10
 paginate_path: "/page/:num"
 #archive:
   #paginate: 10
@@ -35,7 +35,7 @@ category:
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "README_en.md", "vendor"]
 
 # Separator
-#excerpt_separator: <!-- more -->
+excerpt_separator: <!-- more -->
 
 # Code Highlighter
 ## 'pygments' is unsupported on GitHub Pages now.
@@ -121,6 +121,7 @@ menu:
   categories: /categories/
   about: /about/
   archives: /archives/
+  tags: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -137,7 +138,7 @@ menu_icons:
   about: user
   categories: th
   # schedule: calendar
-  # tags: tags
+  tags: tags
   archives: archive
   # sitemap: sitemap
   commonweal: heartbeat
