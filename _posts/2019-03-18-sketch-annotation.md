@@ -1,6 +1,8 @@
 ---
 title: 几款常用的sketch标注工具
 categories: 设计
+tags:
+  - 设计小结
 excerpt_separator: <!--more-->
 ---
 

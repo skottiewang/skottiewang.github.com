@@ -3,6 +3,8 @@ id: 288
 title: Promise实战-基于VUE的Modal组件
 categories:
   - 前端
+tags:
+  - Vue组件
 ---
 ##### 希望实现的效果
 
@@ -101,7 +103,7 @@ Modal弹出后点击取消则Modal立刻消失，点击OK，弹出Toast的轻提
 ```
 组件内部
 
- 
+
 ```javascript
 
 handleAction (btn) {
