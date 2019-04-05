@@ -5,9 +5,11 @@ excerpt_separator: <!--more-->
 categories:
   - 生活杂谈
 ---
-&nbsp; <img class="alignnone size-full wp-image-112" src="http://skottiewang.com/wp-content/uploads/2016/12/timg.jpeg" alt="" width="650" height="300" />&nbsp; &nbsp; &nbsp;
+&nbsp;
 
-&nbsp; 生活中有些许感悟，学习到的东西也需要有个总结回顾，各个社交平台三五年一换，从博客，QQ空间，校内，微博到微信都不太靠谱，站在别人的茅坑里拉屎总觉得不够温馨。
+![01](/wp-content/uploads/2016/12/IMG_1285.jpg)
+
+ 生活中有些许感悟，学习到的东西也需要有个总结回顾，各个社交平台三五年一换，从博客，QQ空间，校内，微博到微信都不太靠谱，站在别人的茅坑里拉屎总觉得不够温馨。
 
 &nbsp; 16年正好赶上职业生涯遇到小瓶颈，知识储备需要升级换代，干互联网这行，不懂技术确实不是长久之计，设计的应用还得与具体行业紧密结合才行啊。想着着手学习编程，最好的办法还是做个自己能用的小玩意儿吧，比如wordpress模版之类的～（最终模版拿的别人的，自己改了些CSS）
 
