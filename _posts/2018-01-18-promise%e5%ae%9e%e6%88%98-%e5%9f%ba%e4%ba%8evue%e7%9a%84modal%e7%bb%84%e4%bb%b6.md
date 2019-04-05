@@ -1,6 +1,7 @@
 ---
 id: 288
 title: Promise实战-基于VUE的Modal组件
+excerpt_separator: <!--more-->
 categories:
   - 前端
 tags:

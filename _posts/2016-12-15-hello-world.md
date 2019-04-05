@@ -1,6 +1,7 @@
 ---
 id: 1
 title: 世界，您好！
+excerpt_separator: <!--more-->
 categories:
   - 生活杂谈
 ---
@@ -14,4 +15,4 @@ categories:
 
 博客开篇，世界您好～
 
-(17.12.08补）
+<!--more-->
