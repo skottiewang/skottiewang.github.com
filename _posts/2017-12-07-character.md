@@ -4,7 +4,6 @@ title: '宝贝云计划（2013-2015）&#8211;人物设计'
 excerpt_separator: <!--more-->
 categories:
   - 设计
-  - 项目总结
 tags:
   - 宝贝云计划
 ---
@@ -27,9 +26,9 @@ tags:
 ## Point
 
 <li style="text-align: left;">
-  <h3>
-    分类--拟物类
-  </h3>
+
+### 分类--拟物类
+
 </li>
 
 <p style="text-align: left;">
@@ -41,7 +40,9 @@ tags:
 </p>
 
 <p style="text-align: left;">
-  <img class="size-full wp-image-186 alignnone" src="http://skottiewang.com/wp-content/uploads/2017/12/timg-5.jpeg" alt="" width="1000" height="599" />
+
+![01](/wp-content/uploads/2017/12/timg-5.jpeg)
+
 </p>
 
 <p style="text-align: left;">
@@ -49,115 +50,170 @@ tags:
 </p>
 
 <p style="text-align: left;">
-  <img class="alignnone size-full wp-image-187" src="http://skottiewang.com/wp-content/uploads/2017/12/timg-1.jpeg" alt="" width="1200" height="855" />
+
+![01](/wp-content/uploads/2017/12/timg-1.jpeg)
+
 </p>
 
-  * ### 分类--拟人类
+### 分类--拟人类
 
-    拟人类，指身体或者脸部特征更倾向于一个人。拟人类也分为两类，一种是全身特征都更倾向于人，在人的基础上变化装饰物。另一种，仍然以人体外形为设计基础，但头部保留动物特征。</li> </ul> 
+拟人类，指身体或者脸部特征更倾向于一个人。拟人类也分为两类，一种是全身特征都更倾向于人，在人的基础上变化装饰物。另一种，仍然以人体外形为设计基础，但头部保留动物特征。
 
-    <p style="text-align: left;">
-      &nbsp; &nbsp; &nbsp; &nbsp; 青蛙军曹<img class="size-full wp-image-188 aligncenter" src="http://skottiewang.com/wp-content/uploads/2017/12/u8174966611344930576fm27gp0.jpg" alt="" width="500" height="400" />
-    </p>
+<p style="text-align: left;">
+  &nbsp;  青蛙军曹
 
-    <p style="text-align: left;">
-      开心超人<img class="alignnone size-full wp-image-189" src="http://skottiewang.com/wp-content/uploads/2017/12/QQ20171218-1@2x.png" alt="" width="1752" height="568" />
-    </p>
+![01](/wp-content/uploads/2017/12/u8174966611344930576fm27gp0.jpg)
 
-    PORORO与康轩文教这两套人物脸部特征保留了更多动物的特征。两套动物特征留存度各不相同，但是大部分情况下同一系列内的特征留存度应保持统一。
+</p>
 
-    <img class="alignnone size-full wp-image-190" src="http://skottiewang.com/wp-content/uploads/2017/12/timg-3.jpeg" alt="" width="730" height="426" />
+<p style="text-align: left;">
+  开心超人
 
-    <img class="alignnone size-full wp-image-191" src="http://skottiewang.com/wp-content/uploads/2017/12/QQ20171218-2@2x.png" alt="" width="1216" height="604" />
+![01](/wp-content/uploads/2017/12/QQ20171218-1@2x.png)
 
-    也有像海绵宝宝这样的“混搭”<img class="alignnone size-full wp-image-192" src="http://skottiewang.com/wp-content/uploads/2017/12/QQ20171218-3@2x.png" alt="" width="1110" height="772" />
+</p>
 
-    &nbsp;
+PORORO与康轩文教这两套人物脸部特征保留了更多动物的特征。两套动物特征留存度各不相同，但是大部分情况下同一系列内的特征留存度应保持统一。
 
-      * ### 分类--怪物类
+![01](/wp-content/uploads/2017/12/timg-3.jpeg)
 
-    怪物类也是儿童产品中比较常见的设计取向。
+![01](/wp-content/uploads/2017/12/QQ20171218-2@2x.png)
 
-    芝麻街<img class="alignnone size-full wp-image-193" src="http://skottiewang.com/wp-content/uploads/2017/12/timg-6.jpeg" alt="" width="870" height="544" />
+也有像海绵宝宝这样的“混搭”
 
-    Endless Reader 一款非常精致的童教类APP<img class="alignnone size-full wp-image-194" src="http://skottiewang.com/wp-content/uploads/2017/12/QQ20171218-4@2x.png" alt="" width="1110" height="658" />
+![01](/wp-content/uploads/2017/12/QQ20171218-3@2x.png)
 
-    <p style="text-align: left;">
-      怪物大学<img class="alignnone size-full wp-image-195" src="http://skottiewang.com/wp-content/uploads/2017/12/timg-7.jpeg" alt="" width="1024" height="603" />
-    </p>
+&nbsp;
 
-      * ### 相同与不同(变换装饰)
+### 分类--怪物类
 
-    作为一套人物的设计来说要注意在性格对人物加以区分，这样人物放在一起看起来才会有戏剧张力，其实最基础的配置就是--生旦净末丑。
+怪物类也是儿童产品中比较常见的设计取向。
 
-    <img class="alignnone size-full wp-image-196" src="http://skottiewang.com/wp-content/uploads/2017/12/timg-8.jpeg" alt="" width="1024" height="719" />
+芝麻街
 
-    角色的配色一般会来开差距，一般颜色会映射性格。
+![01](/wp-content/uploads/2017/12/timg-6.jpeg)
 
-    角色的体形一般会高矮胖瘦的搭配，也会对应人物的性格。<img class="alignnone size-full wp-image-190" src="http://skottiewang.com/wp-content/uploads/2017/12/timg-3.jpeg" alt="" width="730" height="426" />
+Endless Reader 一款非常精致的童教类APP
 
-    性别上通常会以男性为主，加入一到两个女性角色。<img class="alignnone size-full wp-image-197" src="http://skottiewang.com/wp-content/uploads/2017/12/QQ20171218-5@2x.png" alt="" width="1324" height="862" />
+![01](/wp-content/uploads/2017/12/QQ20171218-4@2x.png)
 
-      * ### 眼睛
+<p style="text-align: left;">
+  怪物大学
 
-        设计过程中，一个难点是很难看上去像是同一系列的人物。眼睛很重要，相同风格的眼睛设计，会让角色看上去更成套。 <img class="alignnone size-full wp-image-193" src="http://skottiewang.com/wp-content/uploads/2017/12/timg-6.jpeg" alt="" width="870" height="544" /> <img class="alignnone size-full wp-image-191" src="http://skottiewang.com/wp-content/uploads/2017/12/QQ20171218-2@2x.png" alt="" width="1216" height="604" /><img class="alignnone size-full wp-image-187" src="http://skottiewang.com/wp-content/uploads/2017/12/timg-1.jpeg" alt="" width="1200" height="855" /></li> 
+![01](/wp-content/uploads/2017/12/timg-7.jpeg)
 
-          * ### 反派</ul> 
+</p>
 
-        反派也分两种
+### 相同与不同(变换装饰)
 
-        一种是真的邪恶的恶人（多用在冒险动作类题材的动画中，较少用在儿童影视作品中）<img class="wp-image-198 aligncenter" src="http://skottiewang.com/wp-content/uploads/2017/12/timg-10.jpeg" alt="" width="404" height="596" />
+作为一套人物的设计来说要注意在性格对人物加以区分，这样人物放在一起看起来才会有戏剧张力，其实最基础的配置就是--生旦净末丑。
 
-        <img class=" wp-image-199 aligncenter" src="http://skottiewang.com/wp-content/uploads/2017/12/timg-11.jpeg" alt="" width="413" height="218" />
+![01](/wp-content/uploads/2017/12/timg-8.jpeg)
 
-        &nbsp; 另外一种，我称之为可爱的倒霉蛋，属于招人喜欢的反派，这才是儿童类产品的正解。这套人物的设计过程中，反派的设计我也差点跑了偏。
+角色的配色一般会来开差距，一般颜色会映射性格。
 
-        大力水手<img class="alignnone size-full wp-image-200" src="http://skottiewang.com/wp-content/uploads/2017/12/timg-12.jpeg" alt="" width="637" height="510" />
+角色的体形一般会高矮胖瘦的搭配，也会对应人物的性格。
 
-        灰太狼<img class="wp-image-201 aligncenter" src="http://skottiewang.com/wp-content/uploads/2017/12/u659236416117240240fm27gp0.jpg" alt="" width="367" height="549" />
+![01](/wp-content/uploads/2017/12/timg-3.jpeg)
 
-          * ### 刻画程度
+性别上通常会以男性为主，加入一到两个女性角色。
 
-            所谓刻画程度，就是在同一套系人物中对服装，配饰等物件刻画的细致程度，参考上面贴出的几套人物设计，基本都遵循这一规律。</li> 
+![01](/wp-content/uploads/2017/12/QQ20171218-5@2x.png)
 
-              * ### 边线
+### 眼睛
 
-                一般在同一套人物中对于边线刻画的风格是保持一致的 <img class="alignnone size-full wp-image-204" src="http://skottiewang.com/wp-content/uploads/2017/12/timg-13.jpeg" alt="" width="1600" height="1200" /><img class="alignnone size-full wp-image-206" src="http://skottiewang.com/wp-content/uploads/2017/12/timg-14.jpeg" alt="" width="1920" height="1200" />有一些特殊的勾线风格会产生不一样的效果，下图中彩色的边线，加强了角色精灵的属性<img class="alignnone size-full wp-image-187" src="http://skottiewang.com/wp-content/uploads/2017/12/timg-1.jpeg" alt="" width="1200" height="855" />芝麻街中这种冷色的勾边则加强了怪物的属性<img class="alignnone size-full wp-image-193" src="http://skottiewang.com/wp-content/uploads/2017/12/timg-6.jpeg" alt="" width="870" height="544" />
+设计过程中，一个难点是很难看上去像是同一系列的人物。眼睛很重要，相同风格的眼睛设计，会让角色看上去更成套。
 
-                ### &nbsp;
+![01](/wp-content/uploads/2017/12/timg-6.jpeg)
 
-              * ### 特定的设计语言
+![01](/wp-content/uploads/2017/12/QQ20171218-2@2x.png)
 
-                马达加斯加中这组角色设定，对于角色形体上的转角处做了很明显的方角的设计 <img class="alignnone size-full wp-image-207" src="http://skottiewang.com/wp-content/uploads/2017/12/timg-15.jpeg" alt="" width="1280" height="1024" /><img class="alignnone size-full wp-image-209" src="http://skottiewang.com/wp-content/uploads/2017/12/timg-17.jpeg" alt="" width="850" height="461" /></li> </ul> 
+![01](/wp-content/uploads/2017/12/timg-1.jpeg)
 
-                &nbsp;
+### 反派 
 
-                ## Experiment
+反派也分两种
 
-                刚开始没有做深入的研究就直接在一些经典人物的基础上瞎改了一通
+一种是真的邪恶的恶人（多用在冒险动作类题材的动画中，较少用在儿童影视作品中）
 
-                 <img class="alignnone size-full wp-image-210" src="http://skottiewang.com/wp-content/uploads/2017/12/111.png" alt="" width="2048" height="1536" /><img class="alignnone wp-image-211" src="http://skottiewang.com/wp-content/uploads/2017/12/222.png" alt="" width="692" height="519" />
+![01](/wp-content/uploads/2017/12/timg-10.jpeg)
 
-                &nbsp;
+![01](/wp-content/uploads/2017/12/timg-11.jpeg)
 
-                后面开始做仔细研究，但也还是瞎画一通
+&nbsp; 另外一种，我称之为可爱的倒霉蛋，属于招人喜欢的反派，这才是儿童类产品的正解。这套人物的设计过程中，反派的设计我也差点跑了偏。
 
-                <img class="alignnone size-full wp-image-212" src="http://skottiewang.com/wp-content/uploads/2017/12/1.png" alt="" width="1700" height="600" />&nbsp;
+大力水手
 
-                <img class="wp-image-214 aligncenter" src="http://skottiewang.com/wp-content/uploads/2017/12/4.png" alt="" width="609" height="609" />
+![01](/wp-content/uploads/2017/12/timg-12.jpeg)
 
-                后面慢慢找到了一点方向
+灰太狼
 
-                <img class="alignnone wp-image-217" src="http://skottiewang.com/wp-content/uploads/2017/12/6.png" alt="" width="696" height="369" />
+![01](/wp-content/uploads/2017/12/u659236416117240240fm27gp0.jpg)
 
-                中间老板让其他同事也出了两套方案，下图这两套<img class="alignnone wp-image-216" src="http://skottiewang.com/wp-content/uploads/2017/12/5.png" alt="" width="679" height="389" />
+### 刻画程度
 
-                &nbsp;
+所谓刻画程度，就是在同一套系人物中对服装，配饰等物件刻画的细致程度，参考上面贴出的几套人物设计，基本都遵循这一规律。</li> 
 
-                <img class="alignnone wp-image-218" src="http://skottiewang.com/wp-content/uploads/2017/12/7角色集合.png" alt="" width="650" height="450" />
+### 边线
 
-                最后定了这套
+一般在同一套人物中对于边线刻画的风格是保持一致的
 
-                <img class="alignnone wp-image-220" src="http://skottiewang.com/wp-content/uploads/2017/12/人物设定.png" alt="" width="693" height="508" />
+![01](/wp-content/uploads/2017/12/timg-13.jpeg)
 
-                <img class="alignnone size-full wp-image-222" src="http://skottiewang.com/wp-content/uploads/2017/12/人物设定（只读文档，勿改）.png" alt="" width="2500" height="1500" /><img class="alignnone size-full wp-image-221" src="http://skottiewang.com/wp-content/uploads/2017/12/Q版人物素材集合.png" alt="" width="960" height="2500" />
+![01](/wp-content/uploads/2017/12/timg-14.jpeg)
+
+有一些特殊的勾线风格会产生不一样的效果，下图中彩色的边线，加强了角色精灵的属性
+
+![01](/wp-content/uploads/2017/12/timg-1.jpeg)
+
+芝麻街中这种冷色的勾边则加强了怪物的属性
+
+![01](/wp-content/uploads/2017/12/timg-6.jpeg)
+
+
+
+### &nbsp;
+
+### 特定的设计语言
+
+马达加斯加中这组角色设定，对于角色形体上的转角处做了很明显的方角的设计
+
+![01](/wp-content/uploads/2017/12/timg-15.jpeg)
+
+![01](/wp-content/uploads/2017/12/timg-17.jpeg)
+
+&nbsp;
+
+## Experiment
+
+刚开始没有做深入的研究就直接在一些经典人物的基础上瞎改了一通
+
+![01](/wp-content/uploads/2017/12/111.png)
+
+![01](/wp-content/uploads/2017/12/222.png)
+
+&nbsp;
+
+后面开始做仔细研究，但也还是瞎画一通
+
+![01](/wp-content/uploads/2017/12/1.png)
+
+![01](/wp-content/uploads/2017/12/4.png)
+
+后面慢慢找到了一点方向
+
+![01](/wp-content/uploads/2017/12/6.png)
+
+中间老板让其他同事也出了两套方案，下图这两套
+
+![01](/wp-content/uploads/2017/12/5.png)
+
+![01](/wp-content/uploads/2017/12/角色集合.png)
+
+最后定了这套
+
+![01](/wp-content/uploads/2017/12/人物设定.png)
+
+![01](/wp-content/uploads/2017/12/人物设定（只读文档，勿改）.png)
+
+![01](/wp-content/uploads/2017/12/Q版人物素材集合.png)
