@@ -387,7 +387,7 @@ han: false
 #duoshuo_shortname:
 
 # Disqus
-disqus:
+# disqus:
   enable: true
   shortname: tortorse
   count: true
@@ -441,9 +441,9 @@ gitalk:
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-google_site_verification: E4mtuf4gxTCm1N_T1sYpNE5RiexYJnW856UeEEP7qqA
+# google_site_verification: E4mtuf4gxTCm1N_T1sYpNE5RiexYJnW856UeEEP7qqA
 # Google Analytics
-google_analytics: UA-97072659-1
+# google_analytics: UA-97072659-1
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
@@ -503,16 +503,16 @@ rating:
 
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
-leancloud_visitors:
-  enable: true
-  app_id: Ds2g6mCtTCzAVyRFIXVte0oX-gzGzoHsz
-  app_key: PG338Ks0iCUtVIOs7vivERDs
+# leancloud_visitors:
+  # enable: false
+  # app_id: Ds2g6mCtTCzAVyRFIXVte0oX-gzGzoHsz
+  # app_key: PG338Ks0iCUtVIOs7vivERDs
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on https://ibruce.info/2015/04/04/busuanzi/
-busuanzi_count:
+# busuanzi_count:
   # count values only if the other configs are false
-  enable: false
+  # enable: false
   # custom uv span for the whole site
   site_uv: true
   site_uv_header: <i class="fa fa-user"></i>
