@@ -389,7 +389,7 @@ han: false
 # Disqus
  disqus:
   enable: true
-  shortname: skottie
+  shortname: tortorse
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
@@ -442,7 +442,7 @@ gitalk:
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
  google_site_verification: E4mtuf4gxTCm1N_T1sYpNE5RiexYJnW856UeEEP7qqA
- Google Analytics
+# Google Analytics
  google_analytics: UA-97072659-1
 
 # Yandex Webmaster tools verification setting
@@ -459,10 +459,10 @@ gitalk:
 # Make duoshuo show UA
 # user_id must NOT be null when admin_enable is true!
 # you can visit https://dev.duoshuo.com get duoshuo user id.
-# duoshuo_info:
-  # ua_enable: true
-  # admin_enable: false
-  # user_id: 0
+duoshuo_info:
+  ua_enable: true
+  admin_enable: false
+  user_id: 0
   #admin_nickname: Author
 
 
@@ -504,7 +504,7 @@ rating:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
  leancloud_visitors:
-   enable: false
+   enable: true
    app_id: Ds2g6mCtTCzAVyRFIXVte0oX-gzGzoHsz
    app_key: PG338Ks0iCUtVIOs7vivERDs
 
