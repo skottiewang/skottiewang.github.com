@@ -384,16 +384,16 @@ han: false
 #baidu_analytics:
 
 # Duoshuo ShortName
-#duoshuo_shortname:
+# duoshuo_shortname:
 
 # Disqus
-# disqus:
+ disqus:
   enable: true
-  shortname: tortorse
+  shortname: skottie
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
-  hide: false
+#  hide: false
 
 # Hypercomments
 #hypercomments_id:
