@@ -4,9 +4,9 @@
 # ---------------------------------------------------------------
 
 # Site
-title: "skottie"
-subtitle: Designer
-description: Designer
+title: 王磊
+subtitle: 设计师
+description: 设计师
 author: skottie
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -35,7 +35,7 @@ category:
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "README_en.md", "vendor"]
 
 # Separator
-excerpt_separator: <!-- more -->
+#excerpt_separator: <!-- more -->
 
 # Code Highlighter
 ## 'pygments' is unsupported on GitHub Pages now.
@@ -79,7 +79,7 @@ plugins:
 favicon: /assets/favicon.png
 
 # Set default keywords (Use a comma to separate)
-keywords: "skottie,互联网,王磊,设计"
+keywords: "skottie,交互设计,UI设计,王磊,设计"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -219,6 +219,7 @@ social:
   Github: https://github.com/skottiewang
   Dribbble: https://dribbble.com/skottie
   Zcool: https://www.zcool.com.cn/u/1253533
+
 
 # Social Links Icons
 # Icon Mapping:
@@ -384,10 +385,10 @@ han: false
 #baidu_analytics:
 
 # Duoshuo ShortName
-# duoshuo_shortname:
+#duoshuo_shortname:
 
 # Disqus
- disqus:
+disqus:
   enable: true
   shortname: tortorse
   count: true
@@ -441,9 +442,9 @@ gitalk:
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
- google_site_verification: E4mtuf4gxTCm1N_T1sYpNE5RiexYJnW856UeEEP7qqA
+google_site_verification: E4mtuf4gxTCm1N_T1sYpNE5RiexYJnW856UeEEP7qqA
 # Google Analytics
- google_analytics: UA-97072659-1
+google_analytics: UA-97072659-1
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
@@ -503,10 +504,10 @@ rating:
 
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
- leancloud_visitors:
-   enable: true
-   app_id: Ds2g6mCtTCzAVyRFIXVte0oX-gzGzoHsz
-   app_key: PG338Ks0iCUtVIOs7vivERDs
+leancloud_visitors:
+  enable: true
+  app_id: Ds2g6mCtTCzAVyRFIXVte0oX-gzGzoHsz
+  app_key: PG338Ks0iCUtVIOs7vivERDs
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on https://ibruce.info/2015/04/04/busuanzi/
