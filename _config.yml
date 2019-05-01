@@ -388,13 +388,13 @@ han: false
 #duoshuo_shortname:
 
 # Disqus
-disqus:
-  enable: true
-  shortname: tortorse
-  count: true
+# disqus:
+#  enable: true
+#  shortname: tortorse
+#  count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
-  hide: false
+#  hide: false
 
 # Hypercomments
 #hypercomments_id:
@@ -442,9 +442,9 @@ gitalk:
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-google_site_verification: E4mtuf4gxTCm1N_T1sYpNE5RiexYJnW856UeEEP7qqA
+# google_site_verification: E4mtuf4gxTCm1N_T1sYpNE5RiexYJnW856UeEEP7qqA
 # Google Analytics
-google_analytics: UA-97072659-1
+# google_analytics: UA-97072659-1
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
@@ -506,8 +506,8 @@ rating:
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
   enable: true
-  app_id: Ds2g6mCtTCzAVyRFIXVte0oX-gzGzoHsz
-  app_key: PG338Ks0iCUtVIOs7vivERDs
+  app_id: TBlN1P1OYOepjIuBGRENdPtJ-gzGzoHsz
+  app_key: 5LUfUXkdtTdIfCwXkdMbt9Mb
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on https://ibruce.info/2015/04/04/busuanzi/
