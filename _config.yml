@@ -119,8 +119,8 @@ index_with_subtitle: false
 menu:
   home: /
   categories: /categories/
-  about: /about/
-  archives: /archives/
+  #about: /about/
+  #archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
@@ -135,14 +135,14 @@ menu_icons:
   enable: true
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
-  about: user
+  #about: user
   categories: th
   # schedule: calendar
   tags: tags
-  archives: archive
+  #archives: archive
   # sitemap: sitemap
-  commonweal: heartbeat
-  lab: flask
+  #commonweal: heartbeat
+  #lab: flask
 
 
 
@@ -216,9 +216,9 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-  Github: https://github.com/skottiewang
-  Dribbble: https://dribbble.com/skottie
-  Zcool: https://www.zcool.com.cn/u/1253533
+  #Github: https://github.com/skottiewang
+  #Dribbble: https://dribbble.com/skottie
+  #Zcool: https://www.zcool.com.cn/u/1253533
 
 
 # Social Links Icons
@@ -230,9 +230,9 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  Github: github
-  Dribbble: dribbble
-  Zcool: rocket
+  #Github: github
+  #Dribbble: dribbble
+  #Zcool: rocket
 
 
 # Sidebar Avatar
