@@ -1,4 +1,18 @@
+---
+title: 用户研究—问卷调研
+categories: 读书笔记
+excerpt_separator: <!--more-->
+
+
+
+---
+
+
+
+
+
 ## 问卷调研
+
 ### 明确调研目标
 * 做用户调研，总结起来目的无非三个：寻找用户需求、进行用户洞察、接收用户建议。但大的方向之下还需要有更为具体明确的目标，比如“某产品用户画像调研”，“系统可用性评估”，“90后网购行为习惯调研”等。问卷的问题设计，答案设计，数据分析方式都应紧扣调研目标。
 * 明确且唯一的调研目标是所有后续工作开展的前提条件。
@@ -8,6 +22,9 @@
 
 #### 量表
 目前市面上存在一些用户调研问卷模版，常见的标准化可用性问卷有整体评估问卷、任务评估问卷和网站感知可用性评估问卷。这些模版经过市场长期的检验并得到广泛的认可，同时有非常标准化的数据收集，分析方法。更准确的说这些应该属于“量表”，而不属于问卷。
+
+<!--more-->
+
 * 整体评估问卷：用于完成一系列任务场景后，对产品或系统整体的感知可用性测量。目前使用较广泛的有：QUIS（QuestionnaireForUserInteractionSatisfaction）、SUMI（SoftwareUsabilityMeasurementInventory）、PSSUQ（Post-StudySystemUsabilityQuestionnaire）、CSUQ（ComputerSystemquestionnaire）、SUS（SystemUsabilityScale）。
 * 任务评估问卷：每完成一个场景任务，让用户对该任务进行感知可用性测量。目前使用较广泛的有：ASQ（After-ScenarioQuestionnaire）、SEQ（SingleEaseQuestion）、SMEQ（SubjectiveMentalEffortQuestionnaire）、ER（ExpectationRatings）、UME（UsabilityMagnitudeEstimation）。
 * 网站感知可用性评估问卷：在网络开始流行时，出现了更有针对性的评估网站感知可用性的问卷。目前广泛使用的有：WAMMI（WebsiteAnalysisandMeasurementInventory）、SUPRQ（StandardizedUniversalPercentileRankQuestionnaire）。
