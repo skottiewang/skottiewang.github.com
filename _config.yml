@@ -119,11 +119,11 @@ index_with_subtitle: false
 menu:
   home: /
   categories: /categories/
-  about: /about/
-  archives: /archives/
-  tags: /tags/
-  #sitemap: /sitemap.xml
-  #commonweal: /404.html
+  #about: /about/
+  #archives: /archives/
+  #tags: /tags/
+  sitemap: /sitemap.xml
+  commonweal: /404.html
 
 
 # Enable/Disable menu icons.
@@ -135,13 +135,13 @@ menu_icons:
   enable: true
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
-  about: user
+  #about: user
   categories: th
   # schedule: calendar
-  tags: tags
-  archives: archive
-  # sitemap: sitemap
-  #commonweal: heartbeat
+  #tags: tags
+  #archives: archive
+  sitemap: sitemap
+  commonweal: heartbeat
   #lab: flask
 
 
@@ -152,9 +152,9 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
+#scheme: Muse
 #scheme: Mist
-#scheme: Pisces
+scheme: Pisces
 
 
 # ---------------------------------------------------------------
